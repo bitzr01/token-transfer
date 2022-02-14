@@ -13,9 +13,11 @@ We just want to see basic understanding on how smart contracts work and how to i
 ##### Plan:
 
 Smart Contact
+
 As it is a very simple ERC20 token i will use the openzeppelin contracts and remix instead of hardhat for deployment to rinkeby.
 
 Back-end module
+
 To make transactions we need to sign them with a private key. It is a simple back-end module to show basic understanding so a proper way of handling the private key is out of the scope of this assignment.
 As this is usually done in the front-end i will create a function that can be used in the front or back-end and a script to call this function from the command line.
 
@@ -26,4 +28,4 @@ the function will take the following arguments:
 - signer
 
 
-#####Result:
+##### Result:
