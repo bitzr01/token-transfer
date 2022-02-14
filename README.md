@@ -10,7 +10,7 @@ At FunTech, we want to use our own crypto token called FUN.
 
 We just want to see basic understanding on how smart contracts work and how to interact with them. This should not take more than one hour. You can use the libraries and tools of your choice.
 
-#####Plan:
+##### Plan:
 
 Smart Contact
 As it is a very simple ERC20 token i will use the openzeppelin contracts and remix instead of hardhat for deployment to rinkeby.
