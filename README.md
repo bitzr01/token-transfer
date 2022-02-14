@@ -43,7 +43,7 @@ contract YFunToken is ERC20, ERC20Burnable, Ownable {
     }
 }
 ```
-[contracts/YFuntoken.sol](contracts/YFunToken.sol)
+[contracts/YFunToken.sol](contracts/YFunToken.sol)
 
 
 Transfer function
