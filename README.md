@@ -26,7 +26,7 @@ the function will take the following arguments:
 ##### Result:
 
 
-0xb30f47d1eE482F5886c8BaA76E32ad083Ea56A7A
+[0xb30f47d1eE482F5886c8BaA76E32ad083Ea56A7A](https://rinkeby.etherscan.io/address/0xb30f47d1eE482F5886c8BaA76E32ad083Ea56A7A)
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
